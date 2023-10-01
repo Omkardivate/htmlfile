@@ -1,0 +1,23 @@
+{
+  "name": "htmlfile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omkardivate/htmlfile.git"
+  },
+  "author": "omkar divate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Omkardivate/htmlfile/issues"
+  },
+  "homepage": "https://github.com/Omkardivate/htmlfile#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
