@@ -11,6 +11,7 @@
 - In browser, localhost:8000/
 - Test application, then interupt server (ctrl+c)
 - push on github (exclude lock-up.json)
+# AWS
 - Create AWS instance
 - sudo apt update , sudo apt install nodejs , sudo apt install npm  
 - Off instance firewall
